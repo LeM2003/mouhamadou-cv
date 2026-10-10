@@ -289,8 +289,8 @@ export default function App() {
         <h2 className="contact-el text-5xl md:text-7xl font-serif italic mb-12">Travaillons ensemble.</h2>
         
         <div className="flex flex-wrap justify-center gap-6 mb-16">
-          <a href="mailto:dioufmouha71@gmail.com" className="contact-el group flex items-center gap-3 bg-primary/30 px-6 py-4 rounded-full font-mono text-sm hover:bg-accent hover:text-white transition-all lift-hover">
-            <Mail size={18} /> dioufmouha71@gmail.com
+          <a href="mailto:Mouhamadoud_Diouf@proton.me" className="contact-el group flex items-center gap-3 bg-primary/30 px-6 py-4 rounded-full font-mono text-sm hover:bg-accent hover:text-white transition-all lift-hover">
+            <Mail size={18} /> Mouhamadoud_Diouf@proton.me
           </a>
           <a href="https://github.com/LeM2003" target="_blank" rel="noreferrer" className="contact-el group flex items-center gap-3 bg-primary/30 px-6 py-4 rounded-full font-mono text-sm hover:bg-accent hover:text-white transition-all lift-hover">
             <Code size={18} /> GitHub
@@ -304,7 +304,7 @@ export default function App() {
         </div>
         
         <div className="contact-el">
-          <a href="mailto:dioufmouha71@gmail.com" className="inline-flex items-center justify-center gap-2 bg-foreground text-background px-10 py-5 rounded-full font-bold text-lg magnetic-btn hover:bg-accent transition-colors">
+          <a href="mailto:Mouhamadoud_Diouf@proton.me" className="inline-flex items-center justify-center gap-2 bg-foreground text-background px-10 py-5 rounded-full font-bold text-lg magnetic-btn hover:bg-accent transition-colors">
             Démarrer un projet <ArrowUpRight size={20} />
           </a>
         </div>
