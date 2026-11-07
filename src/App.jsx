@@ -123,7 +123,7 @@ export default function App() {
           </h1>
           
           <p className="hero-el text-2xl md:text-4xl font-serif italic text-primary/80 mb-10">
-            Product Owner tech-first & AI Product Builder
+            Développeur Full Stack & IA · Product Owner
           </p>
           
           <div className="hero-el flex flex-wrap justify-center gap-4 md:gap-8 mb-12 font-mono text-sm md:text-base text-primary/60">
